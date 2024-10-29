@@ -37,11 +37,11 @@
     },
 
     {
-            "name": "📀玩偶备用┃4K",
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/wogg_by.js",
-            "instance": "wogg20241023",
-            "webSite": "http://wogg.xxooo.cf/",
-            "remark": "玩偶备用网盘"
+      "name": "📀玩偶备用┃4K",
+      "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/wogg_by.js",
+      "instance": "wogg20241023",
+      "webSite": "http://wogg.xxooo.cf/",
+      "remark": "玩偶备用网盘"
     },
 
     {

@@ -10,7 +10,7 @@
 
 # 订阅
 
-https://ghp.ci/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/uzAio.json
+https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/uzAio.json
 
 # 添加方式
 

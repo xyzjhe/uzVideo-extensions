@@ -1,8 +1,8 @@
 // 类名要特殊
-class Labipan extends WebApiBase {
+class Yydsys extends WebApiBase {
   constructor() {
     super();
-    this.webSite = 'http://labipan.com';
+    this.webSite = 'https://tv.yydsys.top';
   }
   /**
    * 异步获取分类列表的方法。
@@ -12,36 +12,36 @@ class Labipan extends WebApiBase {
   async getClassList(args) {
     var backData = new RepVideoClassList();
     backData.data = [
-      {
-        type_id: '1',
-        type_name: '電影',
-        hasSubclass: false,
-      },
-      {
-        type_id: '2',
-        type_name: '劇集',
-        hasSubclass: false,
-      },
-      {
-        type_id: '3',
-        type_name: '動漫',
-        hasSubclass: false,
-      },
-      {
-        type_id: '4',
-        type_name: '综艺',
-        hasSubclass: false,
-      },
-      {
-        type_id: '24',
-        type_name: '4k',
-        hasSubclass: false,
-      },
-      {
-        type_id: '5',
-        type_name: '短剧',
-        hasSubclass: false,
-      },
+            {
+                type_id: '1',
+                type_name: '电影',
+                hasSubclass: false,
+            },
+            {
+                type_id: '2',
+                type_name: '剧集',
+                hasSubclass: false,
+            },
+            {
+                type_id: '3',
+                type_name: '综艺',
+                hasSubclass: false,
+            },
+            {
+                type_id: '4',
+                type_name: '动漫',
+                hasSubclass: false,
+            },
+            {
+                type_id: '5',
+                type_name: '短剧',
+                hasSubclass: false,
+            },
+            {
+                type_id: '20',
+                type_name: '纪录片',
+                hasSubclass: false,
+            },
     ];
     return JSON.stringify(backData);
   }
@@ -213,4 +213,4 @@ class Labipan extends WebApiBase {
 }
 
 // json 中 instance 的值，这个名称一定要特殊
-var labipan20241028 = new Labipan();
+var yydsys20241016 = new Yydsys();

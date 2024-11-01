@@ -12,6 +12,8 @@
 
 https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/uzAio.json
 
+https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod.json
+
 # 添加方式
 
 uz影视 -> 设置 -> 数据管理 -> 右上角 + -> 输入链接 -> 确定

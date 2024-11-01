@@ -15,27 +15,49 @@
   ],
   "vod": [
     {
-      "name": " 📀蜡笔盘┃4K",
+      "name": "🍉瓜子app┃4k首选",
+      "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/gzapp.js",
+      "codeID": "ra5Z3wtXKshzSMK2",
+      "instance": "gzapp20241001",
+      "webSite": "https://api.9cec79d.com",
+      "remark": ""
+    },
+    {
+      "name": "🤍素白白┃2k首选",
+      "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/subaibai.js",
+      "instance": "sbb20240624",
+      "webSite": "https://www.subaibaiys.com",
+      "remark": ""
+    },
+    {
+      "name": "📀蜡笔盘盘┃4K",
       "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/labipan.js",
       "instance": "labipan20241028",
       "webSite": "http://labipan.com",
-      "remark": "网盘"
+      "remark": "蜡笔盘盘"
+    },
+    {
+        "name": "📀多多影音┃4K",
+        "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/yydsys.js",
+        "instance": "yydsys20241016",
+        "webSite": "https://tv.yydsys.top",
+        "remark": "多多影音"
     },
     {
       "name": "📀木偶哥哥┃4K",
       "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/mogg.js",
       "instance": "mogg20241023",
       "webSite": "http://www.mogg.top",
-      "remark": "网盘"
+      "remark": "木偶哥哥"
     },
+    
     {
       "name": "📀玩偶哥哥┃4K",
       "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/wogg.js",
       "instance": "wogg20240929",
       "webSite": "https://www.wogg.net",
-      "remark": "网盘"
+      "remark": "玩偶哥哥"
     },
-
     {
       "name": "📀玩偶备用┃4K",
       "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/wogg_by.js",
@@ -45,25 +67,47 @@
     },
 
     {
-        "name": "📀多多影音┃4K",
-        "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/yydsys.js",
-        "instance": "yydsys20241016",
-        "webSite": "https://tv.yydsys.top",
-        "remark": "网盘"
+     "name": "📀至臻视觉┃4K",
+     "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/mihdr.js",
+     "instance": "mihdr20241021",
+     "webSite": "https://mihdr.top",
+     "remark": "至臻视觉"
     },
     {
-        "name": "📀至臻视觉┃4K",
-        "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/mihdr.js",
-        "instance": "mihdr20241021",
-        "webSite": "https://mihdr.top",
-        "remark": "网盘"
+     "name": "📀龙龙玩偶┃4K",
+     "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/longlong.js",
+     "instance": "longlong20241021",
+     "webSite": "http://wanou.xn--yi7aa.top:3108/",
+     "remark": "龙龙玩偶"
+    },
+
+    {
+      "name": "📀欧歌资源┃4K",
+      "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/ougepan.js",
+      "instance": "ougepan20241030",
+      "webSite": "https://woog.nxog.eu.org/",
+      "remark": "欧歌网盘"
     },
     {
-        "name": "📀龙龙玩偶┃4K",
-        "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/longlong.js",
-        "instance": "longlong20241021",
-        "webSite": "http://wanou.xn--yi7aa.top:3108/",
-        "remark": "网盘"
+      "name": "📀奥秘影视┃4K",
+      "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/aomipan.js",
+      "instance": "aomipan20241030",
+      "webSite": "https://vip.omii.top/",
+      "remark": "奥秘网盘"
+    },
+    {
+      "name": "📀云星日记┃4K",
+      "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/yunxing.js",
+      "instance": "yunxing20241030",
+      "webSite": "https://4k.4u4.cn",
+      "remark": "云星网盘"
+    },
+    {
+      "name": "📀土豆粉条┃4K",
+      "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/tudou.js",
+      "instance": "tudou20241030",
+      "webSite": "https://yunpan.yunpay.cc",
+      "remark": "土豆网盘"
     },
     
     {
@@ -101,13 +145,7 @@
       "webSite": "https://www.hanjukankan.com",
       "remark": ""
     },
-    {
-      "name": "🤍素白白┃2k首选",
-      "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/subaibai.js",
-      "instance": "sbb20240624",
-      "webSite": "https://www.subaibaiys.com",
-      "remark": ""
-    },
+    
     {
       "name": "🧲兩个BT┃磁力",
       "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/bttwo.js",
@@ -150,14 +188,7 @@
       "webSite": "https://api.zaqohu.com",
       "remark": "不支持搜索"
     },
-    {
-      "name": "🍉瓜子app┃4k首选",
-      "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/gzapp.js",
-      "codeID": "ra5Z3wtXKshzSMK2",
-      "instance": "gzapp20241001",
-      "webSite": "https://api.9cec79d.com",
-      "remark": ""
-    },
+    
     {
       "name": "🐨囧次元┃动漫",
       "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/jcy.js",
@@ -195,35 +226,35 @@
       "remark": ""
     },
     {
-      "name": "麻豆社",
+      "name": "🔞麻豆社",
       "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/madou.js",
       "instance": "madou20240626",
       "webSite": "https://madou.club",
       "remark": "需海外IP"
     },
     {
-      "name": "MISSAV",
+      "name": "🔞MISSAV",
       "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/missav.js",
       "instance": "missav20240627",
       "webSite": "https://missav.com",
       "remark": ""
     },
     {
-      "name": "Jable",
+      "name": "🔞Jable",
       "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/jable.js",
       "instance": "jable20240831",
       "webSite": "https://jable.tv",
       "remark": ""
     },
     {
-      "name": "玩偶姐姐",
+      "name": "🔞玩偶姐姐",
       "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/hkdoll.js",
       "instance": "hkdoll20240705",
       "webSite": "https://hongkongdollvideo.com",
       "remark": ""
     },
     {
-      "name": "Netflav",
+      "name": "🔞Netflav",
       "api": "https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/vod/js/netflav.js",
       "instance": "netflav20240905",
       "webSite": "https://www.netflav.com",
@@ -231,11 +262,11 @@
     },
     {
             "api": "https://json.heimuer.xyz/api.php/provide/vod/",
-            "name": "🪴黑木耳采集"
+            "name": "🪴黑木耳┃采集"
     },
     {
             "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
-            "name": "🐈小猫咪采集"
+            "name": "🐈小猫咪┃采集"
     }
   ]
 }

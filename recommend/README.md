@@ -9,7 +9,9 @@
   "name": "扩展名称",
   "codeID": "如果加密请填写，由 uz影视 生成",
   "url": "扩展链接",
-  "env":"环境变量名称1##环境变量描述1&&环境变量名称2##环境变量描述2"
+  "env":"环境变量名称1##环境变量描述1&&环境变量名称2##环境变量描述2",
+  "version":1,
+  "type":200
 }
 ```
 
@@ -17,7 +19,7 @@
 
 |       名称       |   订阅链接    |
 | :--------------: | :------: |
-| 豆瓣推荐筛选 | https://ghp.ci/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/recommend/douban.json |
+| 豆瓣推荐筛选 | https://ghp.ci/https://raw.githubusercontent.com/xyzjhe/uzVideo-extensions/refs/heads/dev/recommend/douban.json|
 
 
 
